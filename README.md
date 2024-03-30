@@ -16,7 +16,7 @@ Check installation with
     go version
 
 ## Running of Program 
-1. clone to this directory and move to the directory location with cd `<yourPath>/cron_parser`
+1. clone to local system and move to the directory location with cd `<yourPath>/cron_parser`
 2. install any depdancy of the project with `go get` cmd
 3. run the program with go run cmd `go run main.go "$cronExpressionString"`
 or 
